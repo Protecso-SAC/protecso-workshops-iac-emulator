@@ -1,0 +1,9 @@
+{
+  "name": "ejemplos-aws-emulator",
+  "private": true,
+  "type": "module",
+  "description": "Ejemplo del taller AWS Emulator en local: un script del SDK de JavaScript.",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "3.1167.0"
+  }
+}
