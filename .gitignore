@@ -1,0 +1,7 @@
+# Estado y caché de Terraform: el emulador guarda todo en memoria, así que el estado
+# local deja de ser válido al reiniciarlo.
+.terraform/
+terraform.tfstate*
+crash.log
+
+node_modules/
